@@ -13,7 +13,7 @@ To run the project simply run `npm run start`
 
 
 # Endpoint Details
-## 1. POST (/)
+## 1. POST (/user-details)
 It allows user to save details
 
 # Dependencies
